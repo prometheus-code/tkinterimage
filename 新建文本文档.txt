@@ -1,0 +1,7 @@
+darknet detector test test/my_date.date£¨*£© cfg/my_yolov3.cfg weights/my_yolov3_final.weights myData//JPEGImages/00001.jpg
+Couldn't open file: test/my_date.date
+darknet detector test test/my_data.data cfg/my_yolov3.cfg my_yolov3_final.weights
+
+
+
+darknet detector test test/my_data.data cfg/my_yolov3.cfg my_yolov3_final.weights setsuna/JPEGImages/000001.jpg
